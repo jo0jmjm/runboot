@@ -46,7 +46,7 @@
 ## コーディング規約
 
 - [ESLint](https://eslint.org/)と[Prettier](https://prettier.io/)を使用しています。設定ファイルは`.eslintrc.js`と`.prettierrc`にあります。
-- コードを提出する前に、`npm run lint`と`npm run format`を実行してください。
+- コードを提出する前に、`pnpm run lint`と`pnpm run format`を実行してください。
 - 関数とクラスには適切なJSDocコメントを付けてください。
 - 変数名と関数名には意味のある名前を使用してください。
 
